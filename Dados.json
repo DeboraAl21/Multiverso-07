@@ -1,7 +1,7 @@
 [
   {
     "_id": 1,
-    "Name": "Tony stark",
+    "name": "Tony stark",
     "alias": ["Ironman", "Iron Man", null],
     "universe": "marvel studios",
     "first_appearance": "1963 (Tales of suspense #39)",
@@ -13,7 +13,7 @@
   },
   {
     "_id": 2,
-    "char_name": "Darth vader",
+    "name": "Darth vader",
     "Universe": "StarWars",
     "First_Appearance": "Star wars episode iv",
     "power_level": 88,
@@ -24,7 +24,7 @@
   },
   {
     "_id": 3,
-    "nome": "harry potter",
+    "name": "harry potter",
     "Alias": "The Boy Who Lived",
     "universe": "Wizarding world ",
     "first_appearance": null,
@@ -36,7 +36,7 @@
   },
   {
     "_id": 4,
-    "nome": "Peter Parker",
+    "name": "Peter Parker",
     "alias": ["Spider-man", "Spiderman"],
     "universe": "MARVEL COMICS",
     "powerLevel": 89,
@@ -47,7 +47,7 @@
   },
   {
     "_id": 5,
-    "Nome": "Master Chief",
+    "name": "Master Chief",
     "Alias": ["John-117"],
     "Universe": "HALO",
     "firstAppearance": "Halo Combat Evolved",
@@ -69,7 +69,7 @@
   },
   {
     "_id": 7,
-    "char_name": "Batman",
+    "name": "Batman",
     "universe": "Dc",
     "powerlevel": "85 ",
     "equipment": ["Batsuit","batmobile","money"],
@@ -79,7 +79,7 @@
   },
   {
     "_id": 8,
-    "char_name": "bat man",
+    "name": "bat man",
     "universe": "DC comics",
     "power_level": "85",
     "equipment": "batsuit, batmobile, money",
@@ -99,7 +99,7 @@
   },
   {
     "_id": 10,
-    "Name": "Geralt Of Rivia",
+    "name": "Geralt Of Rivia",
     "universe": "witcher universe",
     "powerLevel": 90,
     "equipment": "silver sword, steel sword, potions, signs",
@@ -109,7 +109,7 @@
   },
   {
     "_id": 11,
-    "char_name": "Son Goku",
+    "name": "Son Goku",
     "Universe": "Dragon Ball ",
     "first_appearance": "Dragon Ball (manga) 1984",
     "powerLevel": "over 9000",
@@ -120,7 +120,7 @@
   },
   {
     "_id": 12,
-    "nome": "Vegeta",
+    "name": "Vegeta",
     "universe": "dragonball",
     "Power_Level": "8500",
     "equipment": ["Armor","Scouter"],
@@ -130,7 +130,7 @@
   },
   {
     "_id": 13,
-    "Name": "Link",
+    "name": "Link",
     "universe": "Legend of zelda",
     "powerlevel": "88",
     "equipment": ["Master sword","shield","ocarina"],
@@ -140,7 +140,7 @@
   },
   {
     "_id": 14,
-    "Nome": "Princess Zelda",
+    "name": "Princess Zelda",
     "universe": "Legend Of Zelda",
     "PowerLevel": "72",
     "equipment": "Wisdom, magic, bow",
@@ -149,7 +149,7 @@
   },
   {
     "_id": 15,
-    "char_name": "Kratos",
+    "name": "Kratos",
     "universe": "god of War ",
     "powerLevel": 98,
     "equipment": ["blades of chaos","leviathan axe","rage"],
@@ -159,7 +159,7 @@
   },
   {
     "_id": 16,
-    "char_name": "Mario",
+    "name": "Mario",
     "Universe": "Nintendo",
     "power_level": "70",
     "equipment": "hat, moustache, jump",
@@ -169,7 +169,7 @@
   },
   {
     "_id": 17,
-    "char_name": "Luigi",
+    "name": "Luigi",
     "Universe": "nintendo",
     "PowerLevel": "68",
     "equipment": ["vacuum", "courage"],
@@ -199,7 +199,7 @@
   },
   {
     "_id": 20,
-    "nome": "Grogu",
+    "name": "Grogu",
     "Universe": "STAR WARS",
     "powerLevel": "50",
     "equipment": "Force, cuteness",
@@ -209,7 +209,7 @@
   },
   {
     "_id": 21,
-    "char_name": "Leia Organa",
+    "name": "Leia Organa",
     "universe": "star wars",
     "power_level": "67",
     "equipment": ["blaster","leadership"],
@@ -219,7 +219,7 @@
   },
   {
     "_id": 22,
-    "char_name": "Naruto Uzumaki",
+    "name": "Naruto Uzumaki",
     "universe": "Naruto ",
     "powerLevel": "92",
     "equipment": "chakra, kunai, rasengan",
@@ -229,7 +229,7 @@
   },
   {
     "_id": 23,
-    "char_name": "Sasuke Uchiha",
+    "name": "Sasuke Uchiha",
     "Universe": "naruto",
     "Powerlevel": 91,
     "equipment": ["Sharingan", "sword"],
@@ -239,7 +239,7 @@
   },
   {
     "_id": 24,
-    "char_name": "Luffy",
+    "name": "Luffy",
     "Universe": "One Piece",
     "powerLevel": "rubber",
     "equipment": "straw hat, devil fruit powers",
@@ -249,7 +249,7 @@
   },
   {
     "_id": 25,
-    "Name": "ThAnOs",
+    "name": "ThAnOs",
     "universe": "Marvel Comics",
     "powerlevel": 99,
     "equipment": ["infinity gauntlet","armor"],
@@ -259,7 +259,7 @@
   },
   {
     "_id": 26,
-    "char_name": "Optimus Prime",
+    "name": "Optimus Prime",
     "universe": "Transformers",
     "PowerLevel": "95",
     "equipment": ["Energon sword","Blaster"],
@@ -269,7 +269,7 @@
   },
   {
     "_id": 27,
-    "char_name": "Megatron",
+    "name": "Megatron",
     "Universe": "transformers",
     "powerlevel": "96",
     "equipment": "fusion cannon, evil plans",
@@ -289,7 +289,7 @@
   },
   {
     "_id": 29,
-    "Name": "Morty Smith",
+    "name": "Morty Smith",
     "Universe": "RICK & MORTY",
     "PowerLevel": "low",
     "equipment": ["nervousness","grandpa"],
@@ -299,7 +299,7 @@
   },
   {
     "_id": 30,
-    "nome": "Eleven",
+    "name": "Eleven",
     "universe": "Stranger Things",
     "powerlevel": "psychic",
     "equipment": "telekinesis, Eggos",
@@ -309,7 +309,7 @@
   },
   {
     "_id": 31,
-    "char_name": "Homer Simpson",
+    "name": "Homer Simpson",
     "Universe": "Simpsons",
     "PowerLevel": "42",
     "equipment": "donuts, beer",
@@ -329,7 +329,7 @@
   },
   {
     "_id": 33,
-    "nome": "Ash Ketchum",
+    "name": "Ash Ketchum",
     "Universe": "pokemon",
     "powerLevel": "determination",
     "equipment": "pikachu, pokeballs",
@@ -339,7 +339,7 @@
   },
   {
     "_id": 34,
-    "char_name": "Pikachu",
+    "name": "Pikachu",
     "universe": "Pokemon",
     "power_level": "electric",
     "equipment": "thunderbolt, cuteness",
@@ -349,7 +349,7 @@
   },
   {
     "_id": 35,
-    "Name": "Cloud Strife",
+    "name": "Cloud Strife",
     "Universe": "Final Fantasy",
     "powerLevel": "87",
     "equipment": "Buster Sword",
@@ -359,7 +359,7 @@
   },
   {
     "_id": 36,
-    "char_name": "Sephiroth",
+    "name": "Sephiroth",
     "Universe": "final fantasy",
     "Powerlevel": "99",
     "equipment": "Masamune sword, one wing",
@@ -389,7 +389,7 @@
   },
   {
     "_id": 39,
-    "char_name": "Sokka",
+    "name": "Sokka",
     "Universe": "avatar",
     "powerLevel": "70",
     "equipment": "boomerang, sarcasm",
@@ -398,7 +398,7 @@
   },
   {
     "_id": 40,
-    "Name": "Black Panther",
+    "name": "Black Panther",
     "universe": "MARVEL",
     "powerlevel": "88",
     "equipment": ["Vibranium suit","claws"],
@@ -408,7 +408,7 @@
   },
   {
     "_id": 41,
-    "nome": "Wonder Woman",
+    "name": "Wonder Woman",
     "Universe": "DC",
     "powerLevel": "95",
     "equipment": "lasso of truth, sword, shield",
@@ -418,7 +418,7 @@
   },
   {
     "_id": 42,
-    "char_name": "The Flash",
+    "name": "The Flash",
     "universe": "dc comics",
     "powerLevel": "fast",
     "equipment": "speedforce",
@@ -428,7 +428,7 @@
   },
   {
     "_id": 43,
-    "Name": "Shrek",
+    "name": "Shrek",
     "Universe": "DreamWorks",
     "PowerLevel": "78",
     "equipment": "swamp, onions",
@@ -438,7 +438,7 @@
   },
   {
     "_id": 44,
-    "nome": "Donkey",
+    "name": "Donkey",
     "universe": "dreamworks",
     "powerlevel": "friendship",
     "equipment": "humor",
@@ -448,7 +448,7 @@
   },
   {
     "_id": 45,
-    "char_name": "Neo",
+    "name": "Neo",
     "Universe": "Matrix",
     "powerLevel": "100",
     "equipment": ["Kung fu","code vision"],
@@ -458,7 +458,7 @@
   },
   {
     "_id": 46,
-    "char_name": "Trinity",
+    "name": "Trinity",
     "universe": "matrix",
     "powerLevel": "89",
     "equipment": "guns, martial arts",
@@ -478,7 +478,7 @@
   },
   {
     "_id": 48,
-    "nome": "Hermione Granger",
+    "name": "Hermione Granger",
     "universe": "wizarding world",
     "powerLevel": "90",
     "equipment": "wand, intelligence",
@@ -488,7 +488,7 @@
   },
   {
     "_id": 49,
-    "char_name": "Sauron",
+    "name": "Sauron",
     "Universe": "Middle earth",
     "PowerLevel": "99",
     "equipment": "One ring, darkness",
@@ -508,7 +508,7 @@
   },
   {
     "_id": 51,
-    "Name": "Kratos ",
+    "name": "Kratos ",
     "universe": "god Of war ",
     "powerLevel": "99",
     "equipment": ["Blades of chaos","Leviathan axe", "Shield"],
@@ -518,7 +518,7 @@
   },
   {
     "_id": 52,
-    "char_name": "Lara croft",
+    "name": "Lara croft",
     "Universe": "Tomb raider",
     "powerlevel": "78",
     "equipment": "guns, backpack, climbing axe",
@@ -528,7 +528,7 @@
   },
   {
     "_id": 53,
-    "Nome": "Geralt of rivia",
+    "name": "Geralt of rivia",
     "universe": "the witcher ",
     "PowerLevel": "88",
     "equipment": ["silver sword", "steel sword", ""],
@@ -548,7 +548,7 @@
   },
   {
     "_id": 55,
-    "charName": "Son Goku",
+    "name": "Son Goku",
     "universe": "dragonball Z",
     "PowerLevel": "over 9000",
     "equipment": "power pole, nimbus cloud",
@@ -558,7 +558,7 @@
   },
   {
     "_id": 56,
-    "Name": "Leia Organa",
+    "name": "Leia Organa",
     "universe": "STAR wars",
     "powerlevel": 75,
     "equipment": ["blaster", "leadership"],
@@ -568,7 +568,7 @@
   },
   {
     "_id": 24,
-    "nome": "Optimus Prime",
+    "name": "Optimus Prime",
     "Universe": "Transformers ",
     "PowerLevel": "98",
     "equipment": ["ion blaster", "energy axe"],
@@ -578,7 +578,7 @@
   },
   {
     "_id": 58,
-    "Char_name": "Ash ketchum",
+    "name": "Ash ketchum",
     "universe": "Pokemon",
     "power_level": "55",
     "equipment": "pokeballs, backpack, hat",
@@ -588,7 +588,7 @@
   },
   {
     "_id": 59,
-    "Name": "Sonic the hedgehog",
+    "name": "Sonic the hedgehog",
     "universe": "SEGA games",
     "PowerLevel": "70",
     "equipment": ["speed", "chaos emeralds"],
@@ -598,7 +598,7 @@
   },
   {
     "_id": 60,
-    "char_name": "Link",
+    "name": "Link",
     "universe": "Legend Of zelda",
     "powerLevel": 82,
     "equipment": "Master Sword, shield, bow",
@@ -608,7 +608,7 @@
   },
   {
     "_id": 29,
-    "Nome": "Samus Aran",
+    "name": "Samus Aran",
     "universe": "metroid",
     "powerlevel": "84",
     "equipment": ["power suit", "arm cannon", "morph ball"],
