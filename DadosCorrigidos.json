@@ -2,11 +2,17 @@
   {
     "id": 1,
     "name": "Tony Stark",
-    "alias": ["Iron Man"],
+    "alias": [
+      "Iron Man"
+    ],
     "universe": "Marvel",
     "firstAppearance": "Tales of Suspense #39",
     "powerLevel": 95,
-    "equipment": ["Armor", "AI Assistant", "Money"],
+    "equipment": [
+      "Armor",
+      "AI Assistant",
+      "Money"
+    ],
     "species": "Human",
     "movies": [
       "Iron Man",
@@ -19,11 +25,17 @@
   {
     "id": 2,
     "name": "Darth Vader",
-    "alias": ["Anakin Skywalker"],
+    "alias": [
+      "Anakin Skywalker"
+    ],
     "universe": "Star Wars",
     "firstAppearance": "Star Wars: Episode IV – A New Hope",
     "powerLevel": 88,
-    "equipment": ["Lightsaber", "Armor", "The Force"],
+    "equipment": [
+      "Lightsaber",
+      "Armor",
+      "The Force"
+    ],
     "species": "Human Cyborg",
     "movies": [
       "A New Hope",
@@ -35,11 +47,17 @@
   {
     "id": 3,
     "name": "Harry Potter",
-    "alias": ["The Boy Who Lived"],
+    "alias": [
+      "The Boy Who Lived"
+    ],
     "universe": "Wizarding World",
     "firstAppearance": "Harry Potter and the Philosopher's Stone",
     "powerLevel": 80,
-    "equipment": ["Wand", "Invisibility Cloak", "Owl"],
+    "equipment": [
+      "Wand",
+      "Invisibility Cloak",
+      "Owl"
+    ],
     "species": "Human Wizard",
     "movies": [
       "Harry Potter and the Philosopher's Stone",
@@ -51,11 +69,16 @@
   {
     "id": 4,
     "name": "Peter Parker",
-    "alias": ["Spider-Man"],
+    "alias": [
+      "Spider-Man"
+    ],
     "universe": "Marvel",
     "firstAppearance": "Amazing Fantasy #15",
     "powerLevel": 89,
-    "equipment": ["Web Shooters", "Spider Suit"],
+    "equipment": [
+      "Web Shooters",
+      "Spider Suit"
+    ],
     "species": "Human",
     "movies": [
       "Spider-Man",
@@ -67,7 +90,9 @@
   {
     "id": 5,
     "name": "Master Chief",
-    "alias": ["John-117"],
+    "alias": [
+      "John-117"
+    ],
     "universe": "Halo",
     "firstAppearance": "Halo: Combat Evolved",
     "powerLevel": 100,
@@ -84,11 +109,18 @@
   {
     "id": 6,
     "name": "Gandalf",
-    "alias": ["Gandalf the Grey", "Gandalf the White"],
+    "alias": [
+      "Gandalf the Grey",
+      "Gandalf the White"
+    ],
     "universe": "Middle-earth",
     "firstAppearance": "The Fellowship of the Ring",
     "powerLevel": 93,
-    "equipment": ["Staff", "Glamdring Sword", "Shadowfax"],
+    "equipment": [
+      "Staff",
+      "Glamdring Sword",
+      "Shadowfax"
+    ],
     "species": "Maia",
     "movies": [
       "The Fellowship of the Ring",
@@ -100,7 +132,10 @@
   {
     "id": 7,
     "name": "Batman",
-    "alias": ["Bruce Wayne", "The Dark Knight"],
+    "alias": [
+      "Bruce Wayne",
+      "The Dark Knight"
+    ],
     "universe": "DC",
     "firstAppearance": "Detective Comics #27",
     "powerLevel": 85,
@@ -140,7 +175,9 @@
   {
     "id": 9,
     "name": "Geralt of Rivia",
-    "alias": ["The White Wolf"],
+    "alias": [
+      "The White Wolf"
+    ],
     "universe": "The Witcher",
     "firstAppearance": "The Witcher",
     "powerLevel": 90,
@@ -159,7 +196,9 @@
   {
     "id": 10,
     "name": "Son Goku",
-    "alias": ["Kakarot"],
+    "alias": [
+      "Kakarot"
+    ],
     "universe": "Dragon Ball",
     "firstAppearance": "Dragon Ball",
     "powerLevel": 9001,
@@ -178,7 +217,9 @@
   {
     "id": 11,
     "name": "Vegeta",
-    "alias": ["Prince Vegeta"],
+    "alias": [
+      "Prince Vegeta"
+    ],
     "universe": "Dragon Ball",
     "firstAppearance": "Dragon Ball Z",
     "powerLevel": 8500,
@@ -196,7 +237,9 @@
   {
     "id": 12,
     "name": "Link",
-    "alias": ["Hero of Time"],
+    "alias": [
+      "Hero of Time"
+    ],
     "universe": "The Legend of Zelda",
     "firstAppearance": "The Legend of Zelda",
     "powerLevel": 88,
@@ -228,7 +271,9 @@
   {
     "id": 14,
     "name": "Kratos",
-    "alias": ["Ghost of Sparta"],
+    "alias": [
+      "Ghost of Sparta"
+    ],
     "universe": "God of War",
     "firstAppearance": "God of War",
     "powerLevel": 99,
@@ -281,7 +326,9 @@
   {
     "id": 17,
     "name": "Sonic the Hedgehog",
-    "alias": ["Blue Blur"],
+    "alias": [
+      "Blue Blur"
+    ],
     "universe": "Sega",
     "firstAppearance": "Sonic the Hedgehog",
     "powerLevel": 70,
@@ -299,7 +346,9 @@
   {
     "id": 18,
     "name": "Thanos",
-    "alias": ["The Mad Titan"],
+    "alias": [
+      "The Mad Titan"
+    ],
     "universe": "Marvel",
     "firstAppearance": "Iron Man #55",
     "powerLevel": 99,
@@ -317,7 +366,9 @@
   {
     "id": 19,
     "name": "Grogu",
-    "alias": ["Baby Yoda"],
+    "alias": [
+      "Baby Yoda"
+    ],
     "universe": "Star Wars",
     "firstAppearance": "The Mandalorian",
     "powerLevel": 50,
@@ -333,7 +384,9 @@
   {
     "id": 20,
     "name": "Leia Organa",
-    "alias": ["Princess Leia"],
+    "alias": [
+      "Princess Leia"
+    ],
     "universe": "Star Wars",
     "firstAppearance": "Star Wars: Episode IV – A New Hope",
     "powerLevel": 75,
@@ -352,7 +405,9 @@
   {
     "id": 21,
     "name": "Naruto Uzumaki",
-    "alias": ["Seventh Hokage"],
+    "alias": [
+      "Seventh Hokage"
+    ],
     "universe": "Naruto",
     "firstAppearance": "Naruto",
     "powerLevel": 92,
@@ -389,7 +444,9 @@
   {
     "id": 23,
     "name": "Monkey D. Luffy",
-    "alias": ["Straw Hat Luffy"],
+    "alias": [
+      "Straw Hat Luffy"
+    ],
     "universe": "One Piece",
     "firstAppearance": "One Piece",
     "powerLevel": 95,
@@ -442,7 +499,9 @@
   {
     "id": 26,
     "name": "Rick Sanchez",
-    "alias": ["Rick C-137"],
+    "alias": [
+      "Rick C-137"
+    ],
     "universe": "Rick and Morty",
     "firstAppearance": "Rick and Morty",
     "powerLevel": 99,
@@ -477,7 +536,9 @@
   {
     "id": 28,
     "name": "Eleven",
-    "alias": ["Jane Hopper"],
+    "alias": [
+      "Jane Hopper"
+    ],
     "universe": "Stranger Things",
     "firstAppearance": "Stranger Things",
     "powerLevel": 90,
@@ -510,7 +571,9 @@
   {
     "id": 30,
     "name": "Spider-Gwen",
-    "alias": ["Gwen Stacy"],
+    "alias": [
+      "Gwen Stacy"
+    ],
     "universe": "Marvel",
     "firstAppearance": "Edge of Spider-Verse #2",
     "powerLevel": 84,
@@ -528,7 +591,9 @@
   {
     "id": 31,
     "name": "Ash Ketchum",
-    "alias": ["Satoshi"],
+    "alias": [
+      "Satoshi"
+    ],
     "universe": "Pokémon",
     "firstAppearance": "Pokémon",
     "powerLevel": 55,
@@ -596,7 +661,9 @@
   {
     "id": 35,
     "name": "Aang",
-    "alias": ["The Last Airbender"],
+    "alias": [
+      "The Last Airbender"
+    ],
     "universe": "Avatar: The Last Airbender",
     "firstAppearance": "Avatar: The Last Airbender",
     "powerLevel": 90,
@@ -646,7 +713,9 @@
   {
     "id": 38,
     "name": "Black Panther",
-    "alias": ["T'Challa"],
+    "alias": [
+      "T'Challa"
+    ],
     "universe": "Marvel",
     "firstAppearance": "Fantastic Four #52",
     "powerLevel": 88,
@@ -665,7 +734,9 @@
   {
     "id": 39,
     "name": "Wonder Woman",
-    "alias": ["Diana Prince"],
+    "alias": [
+      "Diana Prince"
+    ],
     "universe": "DC",
     "firstAppearance": "All Star Comics #8",
     "powerLevel": 95,
@@ -684,7 +755,9 @@
   {
     "id": 40,
     "name": "The Flash",
-    "alias": ["Barry Allen"],
+    "alias": [
+      "Barry Allen"
+    ],
     "universe": "DC",
     "firstAppearance": "Flash Comics #1",
     "powerLevel": 95,
@@ -739,7 +812,9 @@
   {
     "id": 43,
     "name": "Neo",
-    "alias": ["The One"],
+    "alias": [
+      "The One"
+    ],
     "universe": "The Matrix",
     "firstAppearance": "The Matrix",
     "powerLevel": 100,
@@ -816,7 +891,9 @@
   {
     "id": 47,
     "name": "Sauron",
-    "alias": ["The Dark Lord"],
+    "alias": [
+      "The Dark Lord"
+    ],
     "universe": "Middle-earth",
     "firstAppearance": "The Lord of the Rings",
     "powerLevel": 99,
@@ -834,7 +911,9 @@
   {
     "id": 48,
     "name": "Riri Williams",
-    "alias": ["Ironheart"],
+    "alias": [
+      "Ironheart"
+    ],
     "universe": "Marvel",
     "firstAppearance": "Invincible Iron Man Vol. 3 #7",
     "powerLevel": 95,
@@ -936,7 +1015,9 @@
   {
     "id": 54,
     "name": "Yoda",
-    "alias": ["Master Yoda"],
+    "alias": [
+      "Master Yoda"
+    ],
     "universe": "Star Wars",
     "firstAppearance": "The Empire Strikes Back",
     "powerLevel": 94,
@@ -955,7 +1036,9 @@
   {
     "id": 55,
     "name": "Tony Stark (Zombie)",
-    "alias": ["Zombie Iron Man"],
+    "alias": [
+      "Zombie Iron Man"
+    ],
     "universe": "Marvel What If...?",
     "firstAppearance": "What If...?",
     "powerLevel": 65,
@@ -971,7 +1054,9 @@
   {
     "id": 56,
     "name": "Mega Man",
-    "alias": ["Rock"],
+    "alias": [
+      "Rock"
+    ],
     "universe": "Capcom",
     "firstAppearance": "Mega Man",
     "powerLevel": 80,
@@ -986,7 +1071,9 @@
   {
     "id": 57,
     "name": "John Wick",
-    "alias": ["Baba Yaga"],
+    "alias": [
+      "Baba Yaga"
+    ],
     "universe": "John Wick",
     "firstAppearance": "John Wick",
     "powerLevel": 85,
@@ -1006,7 +1093,9 @@
   {
     "id": 58,
     "name": "Saitama",
-    "alias": ["Caped Baldy"],
+    "alias": [
+      "Caped Baldy"
+    ],
     "universe": "One-Punch Man",
     "firstAppearance": "One-Punch Man",
     "powerLevel": 999,
@@ -1019,3 +1108,4 @@
     ],
     "debutYear": 2012
   }
+]
