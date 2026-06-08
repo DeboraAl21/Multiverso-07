@@ -1,0 +1,7 @@
+| Coleção        | Campos                                                                                                                          |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| **characters** | `_id`, `name`, `alias`, `firstAppearance`, `powerLevel`, `debutYear`, `universe_id`, `species_id`, `equipment_ids`, `movie_ids` |
+| **universes**  | `_id`, `name`                                                                                                                   |
+| **species**    | `_id`, `name`                                                                                                                   |
+| **equipment**  | `_id`, `name`                                                                                                                   |
+| **movies**     | `_id`, `title`                                                                                                                  |
